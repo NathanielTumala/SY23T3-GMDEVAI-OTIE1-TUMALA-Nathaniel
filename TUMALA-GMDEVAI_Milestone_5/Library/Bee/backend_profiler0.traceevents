@@ -1,0 +1,346 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1722757864085976, "dur":2307, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1722757864088298, "dur":173, "ph":"X", "name": "Tundra",  "args": { "detail":"RemoveStaleOutputs" }}
+,{ "pid":12345, "tid":0, "ts":1722757864088508, "dur":24, "ph":"X", "name": "Tundra",  "args": { "detail":"PrepareNodes" }}
+,{ "pid":12345, "tid":0, "ts":1722757864088532, "dur":883, "ph":"X", "name": "Tundra",  "args": { "detail":"BuildQueueInit" }}
+,{ "pid":12345, "tid":0, "ts":1722757864089473, "dur":1522, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1722757864090995, "dur":2, "ph":"X", "name": "SortWorkingStack",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1722757864483917, "dur":573, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1722757864484490, "dur":24, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1722757864484514, "dur":4, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1722757864484518, "dur":12, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1722757864484530, "dur":3, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1722757864484534, "dur":12, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1722757864484546, "dur":3, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1722757864484549, "dur":12, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1722757864484561, "dur":3, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1722757864484565, "dur":13, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1722757864484578, "dur":3, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1722757864484581, "dur":11, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1722757864484593, "dur":3, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1722757864484596, "dur":11, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1722757864484607, "dur":3, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1722757864484610, "dur":11, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1722757864484621, "dur":3, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1722757864484625, "dur":10, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1722757864484635, "dur":3, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1722757864484638, "dur":12, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1722757864484650, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1722757864484652, "dur":12, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1722757864484664, "dur":4, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1722757864484668, "dur":11, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1722757864484679, "dur":0, "ph":"X", "name": "SharedResourceDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1722757864484698, "dur":3, "ph":"X", "name": "BuildQueueDestroyTail",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1722757864484751, "dur":2734, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1722757864089769, "dur":1254, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1722757864091026, "dur":13876, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1722757864105436, "dur":2, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"WriteText Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1722757864105438, "dur":248, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1722757864105689, "dur":4, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/natha/Documents/CSB/3rd Term/[Advance] GMDEVAI/_PROJECTS/Milestone 5/Milestone_5_Build/TUMALA-GMDEVAI_Milestone_5_Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1722757864105693, "dur":129, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1722757864105824, "dur":117, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/natha/Documents/CSB/3rd Term/[Advance] GMDEVAI/_PROJECTS/Milestone 5/Milestone_5_Build/TUMALA-GMDEVAI_Milestone_5_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":1, "ts":1722757864105942, "dur":278, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1722757864106222, "dur":128, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/natha/Documents/CSB/3rd Term/[Advance] GMDEVAI/_PROJECTS/Milestone 5/Milestone_5_Build/TUMALA-GMDEVAI_Milestone_5_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1722757864106351, "dur":113, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1722757864106466, "dur":129, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/natha/Documents/CSB/3rd Term/[Advance] GMDEVAI/_PROJECTS/Milestone 5/Milestone_5_Build/TUMALA-GMDEVAI_Milestone_5_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1722757864106596, "dur":173, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1722757864106771, "dur":123, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/natha/Documents/CSB/3rd Term/[Advance] GMDEVAI/_PROJECTS/Milestone 5/Milestone_5_Build/TUMALA-GMDEVAI_Milestone_5_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1722757864106895, "dur":110, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1722757864107007, "dur":115, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/natha/Documents/CSB/3rd Term/[Advance] GMDEVAI/_PROJECTS/Milestone 5/Milestone_5_Build/TUMALA-GMDEVAI_Milestone_5_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1722757864107123, "dur":104, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1722757864107229, "dur":111, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/natha/Documents/CSB/3rd Term/[Advance] GMDEVAI/_PROJECTS/Milestone 5/Milestone_5_Build/TUMALA-GMDEVAI_Milestone_5_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1722757864107340, "dur":103, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1722757864107445, "dur":120, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/natha/Documents/CSB/3rd Term/[Advance] GMDEVAI/_PROJECTS/Milestone 5/Milestone_5_Build/TUMALA-GMDEVAI_Milestone_5_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1722757864107565, "dur":106, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1722757864107672, "dur":104, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/natha/Documents/CSB/3rd Term/[Advance] GMDEVAI/_PROJECTS/Milestone 5/Milestone_5_Build/TUMALA-GMDEVAI_Milestone_5_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1722757864107776, "dur":110, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1722757864107888, "dur":124, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/natha/Documents/CSB/3rd Term/[Advance] GMDEVAI/_PROJECTS/Milestone 5/Milestone_5_Build/TUMALA-GMDEVAI_Milestone_5_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1722757864108012, "dur":113, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1722757864108126, "dur":126, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/natha/Documents/CSB/3rd Term/[Advance] GMDEVAI/_PROJECTS/Milestone 5/Milestone_5_Build/TUMALA-GMDEVAI_Milestone_5_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1722757864108252, "dur":109, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1722757864108362, "dur":202, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/natha/Documents/CSB/3rd Term/[Advance] GMDEVAI/_PROJECTS/Milestone 5/Milestone_5_Build/TUMALA-GMDEVAI_Milestone_5_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1722757864108564, "dur":118, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1722757864108683, "dur":113, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/natha/Documents/CSB/3rd Term/[Advance] GMDEVAI/_PROJECTS/Milestone 5/Milestone_5_Build/TUMALA-GMDEVAI_Milestone_5_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1722757864108796, "dur":109, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1722757864108907, "dur":116, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/natha/Documents/CSB/3rd Term/[Advance] GMDEVAI/_PROJECTS/Milestone 5/Milestone_5_Build/TUMALA-GMDEVAI_Milestone_5_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1722757864109024, "dur":107, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1722757864109132, "dur":355, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/natha/Documents/CSB/3rd Term/[Advance] GMDEVAI/_PROJECTS/Milestone 5/Milestone_5_Build/TUMALA-GMDEVAI_Milestone_5_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1722757864109487, "dur":109, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1722757864109598, "dur":120, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/natha/Documents/CSB/3rd Term/[Advance] GMDEVAI/_PROJECTS/Milestone 5/Milestone_5_Build/TUMALA-GMDEVAI_Milestone_5_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":1, "ts":1722757864109718, "dur":104, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1722757864109823, "dur":373864, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/natha/Documents/CSB/3rd Term/[Advance] GMDEVAI/_PROJECTS/Milestone 5/Milestone_5_Build/TUMALA-GMDEVAI_Milestone_5_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":1, "ts":1722757864483688, "dur":166, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1722757864483859, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"Player" }}
+,{ "pid":12345, "tid":1, "ts":1722757864483860, "dur":0, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1722757864089921, "dur":1120, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1722757864091041, "dur":13915, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1722757864104957, "dur":4816, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/natha/Documents/CSB/3rd Term/[Advance] GMDEVAI/_PROJECTS/Milestone 5/Milestone_5_Build/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":2, "ts":1722757864109774, "dur":47969, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1722757864157748, "dur":326171, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1722757864089903, "dur":1129, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1722757864091032, "dur":13877, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1722757864104928, "dur":192, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/natha/Documents/CSB/3rd Term/[Advance] GMDEVAI/_PROJECTS/Milestone 5/Milestone_5_Build/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":3, "ts":1722757864105125, "dur":133, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1722757864105260, "dur":139, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/natha/Documents/CSB/3rd Term/[Advance] GMDEVAI/_PROJECTS/Milestone 5/Milestone_5_Build/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":3, "ts":1722757864105400, "dur":114, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1722757864105516, "dur":182, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/natha/Documents/CSB/3rd Term/[Advance] GMDEVAI/_PROJECTS/Milestone 5/Milestone_5_Build/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":3, "ts":1722757864105699, "dur":134, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1722757864105835, "dur":128, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/natha/Documents/CSB/3rd Term/[Advance] GMDEVAI/_PROJECTS/Milestone 5/Milestone_5_Build/TUMALA-GMDEVAI_Milestone_5_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1722757864105963, "dur":120, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1722757864106085, "dur":170, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/natha/Documents/CSB/3rd Term/[Advance] GMDEVAI/_PROJECTS/Milestone 5/Milestone_5_Build/TUMALA-GMDEVAI_Milestone_5_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1722757864106256, "dur":223, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1722757864106480, "dur":139, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/natha/Documents/CSB/3rd Term/[Advance] GMDEVAI/_PROJECTS/Milestone 5/Milestone_5_Build/TUMALA-GMDEVAI_Milestone_5_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1722757864106620, "dur":202, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1722757864106823, "dur":248, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/natha/Documents/CSB/3rd Term/[Advance] GMDEVAI/_PROJECTS/Milestone 5/Milestone_5_Build/TUMALA-GMDEVAI_Milestone_5_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1722757864107071, "dur":133, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1722757864107206, "dur":300007, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/natha/Documents/CSB/3rd Term/[Advance] GMDEVAI/_PROJECTS/Milestone 5/Milestone_5_Build/TUMALA-GMDEVAI_Milestone_5_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":3, "ts":1722757864407214, "dur":164, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1722757864407382, "dur":76542, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1722757864089984, "dur":1068, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1722757864091053, "dur":13867, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1722757864104929, "dur":429, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/natha/Documents/CSB/3rd Term/[Advance] GMDEVAI/_PROJECTS/Milestone 5/Milestone_5_Build/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":4, "ts":1722757864105358, "dur":110, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1722757864105470, "dur":113, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/natha/Documents/CSB/3rd Term/[Advance] GMDEVAI/_PROJECTS/Milestone 5/Milestone_5_Build/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":4, "ts":1722757864105584, "dur":2874, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1722757864108459, "dur":581, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/natha/Documents/CSB/3rd Term/[Advance] GMDEVAI/_PROJECTS/Milestone 5/Milestone_5_Build/TUMALA-GMDEVAI_Milestone_5_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1722757864109040, "dur":114, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1722757864109155, "dur":254, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/natha/Documents/CSB/3rd Term/[Advance] GMDEVAI/_PROJECTS/Milestone 5/Milestone_5_Build/TUMALA-GMDEVAI_Milestone_5_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1722757864109409, "dur":40706, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1722757864150120, "dur":333818, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1722757864090047, "dur":1015, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1722757864091063, "dur":13843, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1722757864104928, "dur":3202, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/natha/Documents/CSB/3rd Term/[Advance] GMDEVAI/_PROJECTS/Milestone 5/Milestone_5_Build/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":5, "ts":1722757864108131, "dur":148, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1722757864108281, "dur":144, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/natha/Documents/CSB/3rd Term/[Advance] GMDEVAI/_PROJECTS/Milestone 5/Milestone_5_Build/TUMALA-GMDEVAI_Milestone_5_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1722757864108426, "dur":121, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1722757864108549, "dur":141, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/natha/Documents/CSB/3rd Term/[Advance] GMDEVAI/_PROJECTS/Milestone 5/Milestone_5_Build/TUMALA-GMDEVAI_Milestone_5_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1722757864108691, "dur":1366, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1722757864110059, "dur":122, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/natha/Documents/CSB/3rd Term/[Advance] GMDEVAI/_PROJECTS/Milestone 5/Milestone_5_Build/TUMALA-GMDEVAI_Milestone_5_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":5, "ts":1722757864110181, "dur":96, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1722757864110278, "dur":100, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/natha/Documents/CSB/3rd Term/[Advance] GMDEVAI/_PROJECTS/Milestone 5/Milestone_5_Build/TUMALA-GMDEVAI_Milestone_5_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":5, "ts":1722757864110378, "dur":116, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1722757864110496, "dur":121, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/natha/Documents/CSB/3rd Term/[Advance] GMDEVAI/_PROJECTS/Milestone 5/Milestone_5_Build/TUMALA-GMDEVAI_Milestone_5_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":5, "ts":1722757864110617, "dur":99, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1722757864110718, "dur":103, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/natha/Documents/CSB/3rd Term/[Advance] GMDEVAI/_PROJECTS/Milestone 5/Milestone_5_Build/TUMALA-GMDEVAI_Milestone_5_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":5, "ts":1722757864110821, "dur":93, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1722757864110916, "dur":100, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/natha/Documents/CSB/3rd Term/[Advance] GMDEVAI/_PROJECTS/Milestone 5/Milestone_5_Build/TUMALA-GMDEVAI_Milestone_5_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":5, "ts":1722757864111016, "dur":93, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1722757864111111, "dur":97, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/natha/Documents/CSB/3rd Term/[Advance] GMDEVAI/_PROJECTS/Milestone 5/Milestone_5_Build/TUMALA-GMDEVAI_Milestone_5_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":5, "ts":1722757864111208, "dur":241, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1722757864111451, "dur":46370, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/natha/Documents/CSB/3rd Term/[Advance] GMDEVAI/_PROJECTS/Milestone 5/Milestone_5_Build/TUMALA-GMDEVAI_Milestone_5_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":5, "ts":1722757864157822, "dur":130, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1722757864157953, "dur":325973, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1722757864090116, "dur":956, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1722757864091072, "dur":13982, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1722757864105056, "dur":131, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/natha/Documents/CSB/3rd Term/[Advance] GMDEVAI/_PROJECTS/Milestone 5/Milestone_5_Build/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":6, "ts":1722757864105188, "dur":109, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1722757864105298, "dur":8021, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/natha/Documents/CSB/3rd Term/[Advance] GMDEVAI/_PROJECTS/Milestone 5/Milestone_5_Build/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":6, "ts":1722757864113320, "dur":145, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1722757864113469, "dur":103, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/natha/Documents/CSB/3rd Term/[Advance] GMDEVAI/_PROJECTS/Milestone 5/Milestone_5_Build/TUMALA-GMDEVAI_Milestone_5_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":6, "ts":1722757864113679, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1722757864127378, "dur":4790, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/natha/Documents/CSB/3rd Term/[Advance] GMDEVAI/_PROJECTS/Milestone 5/Milestone_5_Build/TUMALA-GMDEVAI_Milestone_5_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":6, "ts":1722757864132279, "dur":102, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/natha/Documents/CSB/3rd Term/[Advance] GMDEVAI/_PROJECTS/Milestone 5/Milestone_5_Build/TUMALA-GMDEVAI_Milestone_5_Data/level0" }}
+,{ "pid":12345, "tid":6, "ts":1722757864132393, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1722757864132412, "dur":12599, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/natha/Documents/CSB/3rd Term/[Advance] GMDEVAI/_PROJECTS/Milestone 5/Milestone_5_Build/TUMALA-GMDEVAI_Milestone_5_Data/level0" }}
+,{ "pid":12345, "tid":6, "ts":1722757864145207, "dur":338701, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1722757864090170, "dur":912, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1722757864091082, "dur":13870, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1722757864104952, "dur":172, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/natha/Documents/CSB/3rd Term/[Advance] GMDEVAI/_PROJECTS/Milestone 5/Milestone_5_Build/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":7, "ts":1722757864105124, "dur":125, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1722757864105258, "dur":113, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/natha/Documents/CSB/3rd Term/[Advance] GMDEVAI/_PROJECTS/Milestone 5/Milestone_5_Build/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":7, "ts":1722757864105371, "dur":349, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1722757864105721, "dur":156, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/natha/Documents/CSB/3rd Term/[Advance] GMDEVAI/_PROJECTS/Milestone 5/Milestone_5_Build/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":7, "ts":1722757864105877, "dur":117, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1722757864105996, "dur":164, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/natha/Documents/CSB/3rd Term/[Advance] GMDEVAI/_PROJECTS/Milestone 5/Milestone_5_Build/TUMALA-GMDEVAI_Milestone_5_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1722757864106161, "dur":119, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1722757864106282, "dur":137, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/natha/Documents/CSB/3rd Term/[Advance] GMDEVAI/_PROJECTS/Milestone 5/Milestone_5_Build/TUMALA-GMDEVAI_Milestone_5_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1722757864106420, "dur":122, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1722757864106544, "dur":138, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/natha/Documents/CSB/3rd Term/[Advance] GMDEVAI/_PROJECTS/Milestone 5/Milestone_5_Build/TUMALA-GMDEVAI_Milestone_5_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1722757864106682, "dur":143, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1722757864106826, "dur":126, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/natha/Documents/CSB/3rd Term/[Advance] GMDEVAI/_PROJECTS/Milestone 5/Milestone_5_Build/TUMALA-GMDEVAI_Milestone_5_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1722757864106953, "dur":113, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1722757864107068, "dur":124, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/natha/Documents/CSB/3rd Term/[Advance] GMDEVAI/_PROJECTS/Milestone 5/Milestone_5_Build/TUMALA-GMDEVAI_Milestone_5_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1722757864107193, "dur":111, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1722757864107306, "dur":114, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/natha/Documents/CSB/3rd Term/[Advance] GMDEVAI/_PROJECTS/Milestone 5/Milestone_5_Build/TUMALA-GMDEVAI_Milestone_5_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1722757864107420, "dur":112, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1722757864107533, "dur":126, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/natha/Documents/CSB/3rd Term/[Advance] GMDEVAI/_PROJECTS/Milestone 5/Milestone_5_Build/TUMALA-GMDEVAI_Milestone_5_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1722757864107660, "dur":112, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1722757864107773, "dur":120, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/natha/Documents/CSB/3rd Term/[Advance] GMDEVAI/_PROJECTS/Milestone 5/Milestone_5_Build/TUMALA-GMDEVAI_Milestone_5_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1722757864107894, "dur":111, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1722757864108007, "dur":127, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/natha/Documents/CSB/3rd Term/[Advance] GMDEVAI/_PROJECTS/Milestone 5/Milestone_5_Build/TUMALA-GMDEVAI_Milestone_5_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1722757864108134, "dur":127, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1722757864108263, "dur":109, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/natha/Documents/CSB/3rd Term/[Advance] GMDEVAI/_PROJECTS/Milestone 5/Milestone_5_Build/TUMALA-GMDEVAI_Milestone_5_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1722757864108373, "dur":104, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1722757864108478, "dur":106, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/natha/Documents/CSB/3rd Term/[Advance] GMDEVAI/_PROJECTS/Milestone 5/Milestone_5_Build/TUMALA-GMDEVAI_Milestone_5_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1722757864108585, "dur":109, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1722757864108695, "dur":118, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/natha/Documents/CSB/3rd Term/[Advance] GMDEVAI/_PROJECTS/Milestone 5/Milestone_5_Build/TUMALA-GMDEVAI_Milestone_5_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":7, "ts":1722757864108814, "dur":95, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1722757864108910, "dur":493, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/natha/Documents/CSB/3rd Term/[Advance] GMDEVAI/_PROJECTS/Milestone 5/Milestone_5_Build/TUMALA-GMDEVAI_Milestone_5_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1722757864109404, "dur":113, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1722757864109519, "dur":153269, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/natha/Documents/CSB/3rd Term/[Advance] GMDEVAI/_PROJECTS/Milestone 5/Milestone_5_Build/TUMALA-GMDEVAI_Milestone_5_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":7, "ts":1722757864262789, "dur":175, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1722757864262969, "dur":220978, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1722757864090232, "dur":859, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1722757864091091, "dur":13968, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1722757864105059, "dur":148, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/natha/Documents/CSB/3rd Term/[Advance] GMDEVAI/_PROJECTS/Milestone 5/Milestone_5_Build/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":8, "ts":1722757864105208, "dur":99, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1722757864105308, "dur":106, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/natha/Documents/CSB/3rd Term/[Advance] GMDEVAI/_PROJECTS/Milestone 5/Milestone_5_Build/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":8, "ts":1722757864105415, "dur":103, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1722757864105519, "dur":134, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/natha/Documents/CSB/3rd Term/[Advance] GMDEVAI/_PROJECTS/Milestone 5/Milestone_5_Build/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":8, "ts":1722757864105653, "dur":107, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1722757864105762, "dur":290, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/natha/Documents/CSB/3rd Term/[Advance] GMDEVAI/_PROJECTS/Milestone 5/Milestone_5_Build/TUMALA-GMDEVAI_Milestone_5.exe" }}
+,{ "pid":12345, "tid":8, "ts":1722757864106052, "dur":223, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1722757864106277, "dur":119, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/natha/Documents/CSB/3rd Term/[Advance] GMDEVAI/_PROJECTS/Milestone 5/Milestone_5_Build/TUMALA-GMDEVAI_Milestone_5_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1722757864106397, "dur":130, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1722757864106529, "dur":207, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/natha/Documents/CSB/3rd Term/[Advance] GMDEVAI/_PROJECTS/Milestone 5/Milestone_5_Build/TUMALA-GMDEVAI_Milestone_5_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1722757864106737, "dur":242, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1722757864106981, "dur":379, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/natha/Documents/CSB/3rd Term/[Advance] GMDEVAI/_PROJECTS/Milestone 5/Milestone_5_Build/TUMALA-GMDEVAI_Milestone_5_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1722757864107361, "dur":130, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1722757864107492, "dur":142, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/natha/Documents/CSB/3rd Term/[Advance] GMDEVAI/_PROJECTS/Milestone 5/Milestone_5_Build/TUMALA-GMDEVAI_Milestone_5_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1722757864107634, "dur":114, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1722757864107750, "dur":117, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/natha/Documents/CSB/3rd Term/[Advance] GMDEVAI/_PROJECTS/Milestone 5/Milestone_5_Build/TUMALA-GMDEVAI_Milestone_5_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1722757864107867, "dur":110, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1722757864107979, "dur":128, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/natha/Documents/CSB/3rd Term/[Advance] GMDEVAI/_PROJECTS/Milestone 5/Milestone_5_Build/TUMALA-GMDEVAI_Milestone_5_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1722757864108108, "dur":107, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1722757864108217, "dur":126, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/natha/Documents/CSB/3rd Term/[Advance] GMDEVAI/_PROJECTS/Milestone 5/Milestone_5_Build/TUMALA-GMDEVAI_Milestone_5_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1722757864108343, "dur":142, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1722757864108487, "dur":135, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/natha/Documents/CSB/3rd Term/[Advance] GMDEVAI/_PROJECTS/Milestone 5/Milestone_5_Build/TUMALA-GMDEVAI_Milestone_5_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1722757864108622, "dur":103, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1722757864108727, "dur":128, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/natha/Documents/CSB/3rd Term/[Advance] GMDEVAI/_PROJECTS/Milestone 5/Milestone_5_Build/TUMALA-GMDEVAI_Milestone_5_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1722757864108856, "dur":113, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1722757864108970, "dur":124, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/natha/Documents/CSB/3rd Term/[Advance] GMDEVAI/_PROJECTS/Milestone 5/Milestone_5_Build/TUMALA-GMDEVAI_Milestone_5_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1722757864109095, "dur":197, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1722757864109293, "dur":137, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/natha/Documents/CSB/3rd Term/[Advance] GMDEVAI/_PROJECTS/Milestone 5/Milestone_5_Build/TUMALA-GMDEVAI_Milestone_5_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1722757864109431, "dur":116, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1722757864109548, "dur":200355, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/natha/Documents/CSB/3rd Term/[Advance] GMDEVAI/_PROJECTS/Milestone 5/Milestone_5_Build/TUMALA-GMDEVAI_Milestone_5_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":8, "ts":1722757864309904, "dur":158, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1722757864310066, "dur":173882, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1722757864090420, "dur":734, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1722757864091155, "dur":13760, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1722757864104929, "dur":4936, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/natha/Documents/CSB/3rd Term/[Advance] GMDEVAI/_PROJECTS/Milestone 5/Milestone_5_Build/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":9, "ts":1722757864109865, "dur":129, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1722757864109995, "dur":156, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/natha/Documents/CSB/3rd Term/[Advance] GMDEVAI/_PROJECTS/Milestone 5/Milestone_5_Build/TUMALA-GMDEVAI_Milestone_5_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":9, "ts":1722757864110151, "dur":107, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1722757864110260, "dur":112, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/natha/Documents/CSB/3rd Term/[Advance] GMDEVAI/_PROJECTS/Milestone 5/Milestone_5_Build/TUMALA-GMDEVAI_Milestone_5_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":9, "ts":1722757864110373, "dur":47623, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1722757864157997, "dur":325935, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1722757864090299, "dur":838, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1722757864091138, "dur":13784, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1722757864104929, "dur":190, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/natha/Documents/CSB/3rd Term/[Advance] GMDEVAI/_PROJECTS/Milestone 5/Milestone_5_Build/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":10, "ts":1722757864105125, "dur":4160, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1722757864109286, "dur":534, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/natha/Documents/CSB/3rd Term/[Advance] GMDEVAI/_PROJECTS/Milestone 5/Milestone_5_Build/TUMALA-GMDEVAI_Milestone_5_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1722757864109820, "dur":388, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1722757864110210, "dur":103, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/natha/Documents/CSB/3rd Term/[Advance] GMDEVAI/_PROJECTS/Milestone 5/Milestone_5_Build/TUMALA-GMDEVAI_Milestone_5_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":10, "ts":1722757864110313, "dur":89, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1722757864110404, "dur":94, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/natha/Documents/CSB/3rd Term/[Advance] GMDEVAI/_PROJECTS/Milestone 5/Milestone_5_Build/TUMALA-GMDEVAI_Milestone_5_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":10, "ts":1722757864110498, "dur":91, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1722757864110590, "dur":98, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/natha/Documents/CSB/3rd Term/[Advance] GMDEVAI/_PROJECTS/Milestone 5/Milestone_5_Build/TUMALA-GMDEVAI_Milestone_5_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":10, "ts":1722757864110688, "dur":87, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1722757864110777, "dur":99, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/natha/Documents/CSB/3rd Term/[Advance] GMDEVAI/_PROJECTS/Milestone 5/Milestone_5_Build/TUMALA-GMDEVAI_Milestone_5_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":10, "ts":1722757864110877, "dur":95, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1722757864110974, "dur":104, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/natha/Documents/CSB/3rd Term/[Advance] GMDEVAI/_PROJECTS/Milestone 5/Milestone_5_Build/TUMALA-GMDEVAI_Milestone_5_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":10, "ts":1722757864111078, "dur":93, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1722757864111173, "dur":101, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/natha/Documents/CSB/3rd Term/[Advance] GMDEVAI/_PROJECTS/Milestone 5/Milestone_5_Build/TUMALA-GMDEVAI_Milestone_5_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":10, "ts":1722757864111274, "dur":84, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1722757864111360, "dur":228, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/natha/Documents/CSB/3rd Term/[Advance] GMDEVAI/_PROJECTS/Milestone 5/Milestone_5_Build/TUMALA-GMDEVAI_Milestone_5_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":10, "ts":1722757864111589, "dur":96, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1722757864111687, "dur":119, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/natha/Documents/CSB/3rd Term/[Advance] GMDEVAI/_PROJECTS/Milestone 5/Milestone_5_Build/TUMALA-GMDEVAI_Milestone_5_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":10, "ts":1722757864111806, "dur":79, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1722757864111887, "dur":89, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/natha/Documents/CSB/3rd Term/[Advance] GMDEVAI/_PROJECTS/Milestone 5/Milestone_5_Build/TUMALA-GMDEVAI_Milestone_5_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":10, "ts":1722757864111976, "dur":77, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1722757864112054, "dur":90, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/natha/Documents/CSB/3rd Term/[Advance] GMDEVAI/_PROJECTS/Milestone 5/Milestone_5_Build/TUMALA-GMDEVAI_Milestone_5_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":10, "ts":1722757864112145, "dur":86, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1722757864112233, "dur":93, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/natha/Documents/CSB/3rd Term/[Advance] GMDEVAI/_PROJECTS/Milestone 5/Milestone_5_Build/TUMALA-GMDEVAI_Milestone_5_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":10, "ts":1722757864112326, "dur":90, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1722757864112417, "dur":100, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/natha/Documents/CSB/3rd Term/[Advance] GMDEVAI/_PROJECTS/Milestone 5/Milestone_5_Build/TUMALA-GMDEVAI_Milestone_5_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":10, "ts":1722757864112517, "dur":81, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1722757864112599, "dur":2526, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/natha/Documents/CSB/3rd Term/[Advance] GMDEVAI/_PROJECTS/Milestone 5/Milestone_5_Build/TUMALA-GMDEVAI_Milestone_5_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":10, "ts":1722757864115126, "dur":155, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1722757864115287, "dur":109, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/natha/Documents/CSB/3rd Term/[Advance] GMDEVAI/_PROJECTS/Milestone 5/Milestone_5_Build/TUMALA-GMDEVAI_Milestone_5_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":10, "ts":1722757864115412, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1722757864116341, "dur":7073, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/natha/Documents/CSB/3rd Term/[Advance] GMDEVAI/_PROJECTS/Milestone 5/Milestone_5_Build/TUMALA-GMDEVAI_Milestone_5_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":10, "ts":1722757864123555, "dur":103, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/natha/Documents/CSB/3rd Term/[Advance] GMDEVAI/_PROJECTS/Milestone 5/Milestone_5_Build/TUMALA-GMDEVAI_Milestone_5_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":10, "ts":1722757864123672, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1722757864123696, "dur":2755, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/natha/Documents/CSB/3rd Term/[Advance] GMDEVAI/_PROJECTS/Milestone 5/Milestone_5_Build/TUMALA-GMDEVAI_Milestone_5_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":10, "ts":1722757864126570, "dur":331, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/natha/Documents/CSB/3rd Term/[Advance] GMDEVAI/_PROJECTS/Milestone 5/Milestone_5_Build/TUMALA-GMDEVAI_Milestone_5_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":10, "ts":1722757864126902, "dur":111, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1722757864127016, "dur":4149, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/natha/Documents/CSB/3rd Term/[Advance] GMDEVAI/_PROJECTS/Milestone 5/Milestone_5_Build/TUMALA-GMDEVAI_Milestone_5_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":10, "ts":1722757864131166, "dur":392, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1722757864131563, "dur":123, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/natha/Documents/CSB/3rd Term/[Advance] GMDEVAI/_PROJECTS/Milestone 5/Milestone_5_Build/TUMALA-GMDEVAI_Milestone_5_Data/level0.resS" }}
+,{ "pid":12345, "tid":10, "ts":1722757864131704, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1722757864131727, "dur":5046, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/natha/Documents/CSB/3rd Term/[Advance] GMDEVAI/_PROJECTS/Milestone 5/Milestone_5_Build/TUMALA-GMDEVAI_Milestone_5_Data/level0.resS" }}
+,{ "pid":12345, "tid":10, "ts":1722757864136891, "dur":99, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/natha/Documents/CSB/3rd Term/[Advance] GMDEVAI/_PROJECTS/Milestone 5/Milestone_5_Build/TUMALA-GMDEVAI_Milestone_5_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":10, "ts":1722757864137003, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1722757864137023, "dur":2624, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/natha/Documents/CSB/3rd Term/[Advance] GMDEVAI/_PROJECTS/Milestone 5/Milestone_5_Build/TUMALA-GMDEVAI_Milestone_5_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":10, "ts":1722757864139753, "dur":93, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/natha/Documents/CSB/3rd Term/[Advance] GMDEVAI/_PROJECTS/Milestone 5/Milestone_5_Build/TUMALA-GMDEVAI_Milestone_5_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":10, "ts":1722757864139859, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1722757864139879, "dur":2396, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/natha/Documents/CSB/3rd Term/[Advance] GMDEVAI/_PROJECTS/Milestone 5/Milestone_5_Build/TUMALA-GMDEVAI_Milestone_5_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":10, "ts":1722757864142373, "dur":273, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/natha/Documents/CSB/3rd Term/[Advance] GMDEVAI/_PROJECTS/Milestone 5/Milestone_5_Build/TUMALA-GMDEVAI_Milestone_5_Data/boot.config" }}
+,{ "pid":12345, "tid":10, "ts":1722757864142651, "dur":99, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1722757864142752, "dur":341170, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1722757864090357, "dur":791, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1722757864091148, "dur":13939, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1722757864105088, "dur":122, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/natha/Documents/CSB/3rd Term/[Advance] GMDEVAI/_PROJECTS/Milestone 5/Milestone_5_Build/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":11, "ts":1722757864105211, "dur":113, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1722757864105325, "dur":116, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/natha/Documents/CSB/3rd Term/[Advance] GMDEVAI/_PROJECTS/Milestone 5/Milestone_5_Build/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":11, "ts":1722757864105442, "dur":124, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1722757864105568, "dur":217, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/natha/Documents/CSB/3rd Term/[Advance] GMDEVAI/_PROJECTS/Milestone 5/Milestone_5_Build/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":11, "ts":1722757864105785, "dur":139, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1722757864105926, "dur":186, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/natha/Documents/CSB/3rd Term/[Advance] GMDEVAI/_PROJECTS/Milestone 5/Milestone_5_Build/TUMALA-GMDEVAI_Milestone_5_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1722757864106113, "dur":153, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1722757864106269, "dur":145, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/natha/Documents/CSB/3rd Term/[Advance] GMDEVAI/_PROJECTS/Milestone 5/Milestone_5_Build/TUMALA-GMDEVAI_Milestone_5_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1722757864106414, "dur":136, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1722757864106552, "dur":120, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/natha/Documents/CSB/3rd Term/[Advance] GMDEVAI/_PROJECTS/Milestone 5/Milestone_5_Build/TUMALA-GMDEVAI_Milestone_5_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1722757864106672, "dur":98, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1722757864106772, "dur":101, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/natha/Documents/CSB/3rd Term/[Advance] GMDEVAI/_PROJECTS/Milestone 5/Milestone_5_Build/TUMALA-GMDEVAI_Milestone_5_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1722757864106873, "dur":101, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1722757864106976, "dur":129, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/natha/Documents/CSB/3rd Term/[Advance] GMDEVAI/_PROJECTS/Milestone 5/Milestone_5_Build/TUMALA-GMDEVAI_Milestone_5_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1722757864107105, "dur":103, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1722757864107210, "dur":127, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/natha/Documents/CSB/3rd Term/[Advance] GMDEVAI/_PROJECTS/Milestone 5/Milestone_5_Build/TUMALA-GMDEVAI_Milestone_5_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1722757864107337, "dur":137, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1722757864107476, "dur":114, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/natha/Documents/CSB/3rd Term/[Advance] GMDEVAI/_PROJECTS/Milestone 5/Milestone_5_Build/TUMALA-GMDEVAI_Milestone_5_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1722757864107591, "dur":114, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1722757864107706, "dur":101, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/natha/Documents/CSB/3rd Term/[Advance] GMDEVAI/_PROJECTS/Milestone 5/Milestone_5_Build/TUMALA-GMDEVAI_Milestone_5_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1722757864107807, "dur":103, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1722757864107912, "dur":111, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/natha/Documents/CSB/3rd Term/[Advance] GMDEVAI/_PROJECTS/Milestone 5/Milestone_5_Build/TUMALA-GMDEVAI_Milestone_5_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1722757864108023, "dur":129, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1722757864108153, "dur":135, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/natha/Documents/CSB/3rd Term/[Advance] GMDEVAI/_PROJECTS/Milestone 5/Milestone_5_Build/TUMALA-GMDEVAI_Milestone_5_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1722757864108289, "dur":133, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1722757864108423, "dur":154, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/natha/Documents/CSB/3rd Term/[Advance] GMDEVAI/_PROJECTS/Milestone 5/Milestone_5_Build/TUMALA-GMDEVAI_Milestone_5_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1722757864108577, "dur":295, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1722757864108874, "dur":114, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/natha/Documents/CSB/3rd Term/[Advance] GMDEVAI/_PROJECTS/Milestone 5/Milestone_5_Build/TUMALA-GMDEVAI_Milestone_5_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1722757864108989, "dur":102, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1722757864109093, "dur":204, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/natha/Documents/CSB/3rd Term/[Advance] GMDEVAI/_PROJECTS/Milestone 5/Milestone_5_Build/TUMALA-GMDEVAI_Milestone_5_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1722757864109298, "dur":144, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1722757864109444, "dur":123, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/natha/Documents/CSB/3rd Term/[Advance] GMDEVAI/_PROJECTS/Milestone 5/Milestone_5_Build/TUMALA-GMDEVAI_Milestone_5_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1722757864109568, "dur":113, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1722757864109683, "dur":217454, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/natha/Documents/CSB/3rd Term/[Advance] GMDEVAI/_PROJECTS/Milestone 5/Milestone_5_Build/TUMALA-GMDEVAI_Milestone_5_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":11, "ts":1722757864327138, "dur":155, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1722757864327296, "dur":156633, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1722757864090481, "dur":679, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1722757864091160, "dur":13752, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1722757864104929, "dur":586, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/natha/Documents/CSB/3rd Term/[Advance] GMDEVAI/_PROJECTS/Milestone 5/Milestone_5_Build/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":12, "ts":1722757864105515, "dur":223, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1722757864105741, "dur":183, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/natha/Documents/CSB/3rd Term/[Advance] GMDEVAI/_PROJECTS/Milestone 5/Milestone_5_Build/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":12, "ts":1722757864105925, "dur":1212, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1722757864107140, "dur":111, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/natha/Documents/CSB/3rd Term/[Advance] GMDEVAI/_PROJECTS/Milestone 5/Milestone_5_Build/TUMALA-GMDEVAI_Milestone_5_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1722757864107252, "dur":359, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1722757864107612, "dur":144, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/natha/Documents/CSB/3rd Term/[Advance] GMDEVAI/_PROJECTS/Milestone 5/Milestone_5_Build/TUMALA-GMDEVAI_Milestone_5_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1722757864107757, "dur":112, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1722757864107871, "dur":112, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/natha/Documents/CSB/3rd Term/[Advance] GMDEVAI/_PROJECTS/Milestone 5/Milestone_5_Build/TUMALA-GMDEVAI_Milestone_5_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1722757864107983, "dur":111, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1722757864108096, "dur":114, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/natha/Documents/CSB/3rd Term/[Advance] GMDEVAI/_PROJECTS/Milestone 5/Milestone_5_Build/TUMALA-GMDEVAI_Milestone_5_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1722757864108210, "dur":129, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1722757864108341, "dur":214, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/natha/Documents/CSB/3rd Term/[Advance] GMDEVAI/_PROJECTS/Milestone 5/Milestone_5_Build/TUMALA-GMDEVAI_Milestone_5_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1722757864108555, "dur":136, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1722757864108693, "dur":135, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/natha/Documents/CSB/3rd Term/[Advance] GMDEVAI/_PROJECTS/Milestone 5/Milestone_5_Build/TUMALA-GMDEVAI_Milestone_5_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1722757864108829, "dur":102, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1722757864108933, "dur":116, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/natha/Documents/CSB/3rd Term/[Advance] GMDEVAI/_PROJECTS/Milestone 5/Milestone_5_Build/TUMALA-GMDEVAI_Milestone_5_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1722757864109049, "dur":241, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1722757864109292, "dur":136, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/natha/Documents/CSB/3rd Term/[Advance] GMDEVAI/_PROJECTS/Milestone 5/Milestone_5_Build/TUMALA-GMDEVAI_Milestone_5_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1722757864109428, "dur":109, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1722757864109539, "dur":201215, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/natha/Documents/CSB/3rd Term/[Advance] GMDEVAI/_PROJECTS/Milestone 5/Milestone_5_Build/TUMALA-GMDEVAI_Milestone_5_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":12, "ts":1722757864310755, "dur":99, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1722757864310855, "dur":173057, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1722757864492004, "dur":3952, "ph":"X", "name": "ProfilerWriteOutput" }
+,
